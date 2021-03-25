@@ -1,24 +1,12 @@
-<h3 align="center">A passionate developer from Melbourne</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achhetr&label=Profile%20views&color=0e75b6&style=flat" alt="achhetr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achhetr" alt="achhetr" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/akash_research" target="blank"><img src="https://img.shields.io/twitter/follow/akash_research?logo=twitter&style=for-the-badge" alt="akash_research" /></a> </p>
 
-- 🔭 I’m currently working on **Vegan Blog**
-
-- 🌱 I’m currently learning **Ruby on Rails**
-
-- 👯 I’m looking to collaborate on **Vegan Blog**
+- 🔭 I’m currently volunteering for **Humie**
 
 - 👨‍💻 All of my projects are available at [http://akash7.netlify.com/](http://akash7.netlify.com/)
 
-- 💬 Ask me about **React, React Native, NodeJS, Express, Frontend Technology**
-
 - 📫 How to reach me **akash(dot)chhetri(one)@gmail(dot)com**
-
-- ⚡ Fun fact **I am a sportsman and I have a never quit attitude**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
