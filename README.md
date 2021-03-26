@@ -2,9 +2,9 @@
 
 ## Contact Me
 
-### [LinkedIn](https://www.linkedin.com/in/akashchhetri)
-### [Portfolio](http://akash7.netlify.com/)
-### Email: **akash(dot)chhetri(one)@gmail(dot)com**
+[LinkedIn](https://www.linkedin.com/in/akashchhetri), 
+[Portfolio](http://akash7.netlify.com/), 
+Email: **akash(dot)chhetri(one)@gmail(dot)com**
 
 ## Projects
 
