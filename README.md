@@ -1,7 +1,5 @@
 # Akash Chhetri - Software Developer (Melbourne, Australia)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achhetr&label=Profile%20views&color=0e75b6&style=flat" alt="achhetr" /> </p>
-
 ## Contact Me
 <p align = 'left'>
   <a href = 'https://www.linkedin.com/in/akashchhetri'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
@@ -9,7 +7,7 @@
   <a href = 'https://www.github.com/achhetr'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </p>
 
-## About Me
+## About Me <p align="left"> <img src="https://komarev.com/ghpvc/?username=achhetr&label=Profile%20views&color=0e75b6&style=flat" alt="achhetr" /> </p>
 
 - 🔭 I’m currently volunteering for **Humie**
 
@@ -23,8 +21,6 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/akash7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/akash7" /></a></p><br><br>
 
 ## GitHub Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achhetr&show_icons=true&locale=en" alt="achhetr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achhetr&" alt="achhetr" /></p>
 
