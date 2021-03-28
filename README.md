@@ -13,7 +13,3 @@ Email: **akash(dot)chhetri(one)@gmail(dot)com**
 ### [Junior Developer Blog](https://github.com/achhetr/junior-dev-blog)
 ### [Hungry Hiker Indian Restaurant](http://thehungryhiker.com.au)
 ### Humie (Private website)
-
-## GitHub Stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achhetr&" alt="achhetr" /></p>
