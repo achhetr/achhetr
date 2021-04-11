@@ -8,8 +8,7 @@ Email: **akash(dot)chhetri(one)@gmail(dot)com**
 
 ## Projects
 
-### [Social Games](https://github.com/achhetr/social-games)
-### [Rent A Pet](https://github.com/achhetr/rent-a-pet)
-### [Junior Developer Blog](https://github.com/achhetr/junior-dev-blog)
-### [Hungry Hiker Indian Restaurant](http://thehungryhiker.com.au)
-### Humie (Private website)
+### [Social Games](https://github.com/achhetr/social-games) => Group project
+### [Rent A Pet](https://github.com/achhetr/rent-a-pet) => Group project and project leader
+### [Hungry Hiker Indian Restaurant](http://thehungryhiker.com.au) => Freelance project
+### [Junior Developer Blog](https://lewagon-dev.herokuapp.com/) => Hobby project
