@@ -13,3 +13,4 @@ Email: **akash(dot)chhetri(one)@gmail(dot)com**
 ### [Hungry Hiker Indian Restaurant](http://thehungryhiker.com.au) => Freelance project built in HTML, CSS, JS and AWS
 ### [Junior Developer Blog](https://lewagon-dev.herokuapp.com/) => Hobby project built in Ruby on Rails
 ### [Nepalese Event App](https://github.com/achhetr/nepali-community-events) => Hobby project built in NextJS -> ReactJS
+### [Health Tracker](https://github.com/achhetr/health-tracker) => Hobby project built with React on Rails (in progress)
